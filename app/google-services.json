@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52393657008",
+    "firebase_url": "https://ideation-e1100-default-rtdb.firebaseio.com",
+    "project_id": "ideation-e1100",
+    "storage_bucket": "ideation-e1100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52393657008:android:875f2ff45660cf40d5b175",
+        "android_client_info": {
+          "package_name": "com.example.android.ideation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52393657008-gmn6s449b6tim8gp9cd9to9qra73hk9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgDjhE-QuBhDa-XwkYyenlhNuvEcpmuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52393657008-gmn6s449b6tim8gp9cd9to9qra73hk9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
