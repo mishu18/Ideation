@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#FAFAFB</color>
+    <color name="colorPrimary">#0C0C0C</color>
     <color name="colorPrimaryDark">#FAFAFB</color>
     <color name="colorAccent">#1982D2</color>
     <color name="hamburger">#DC0E2D</color>
@@ -9,7 +9,7 @@
     <color name="darkGray">#9A9A9C</color>
 
     <color name="add_post_blue">#8FCCF4</color>
-    <color name="drawer_orange">#f5a86c</color>
+    <color name="drawer_orange">#EAC555</color>
     <color name="drawerMenuGray">#BFBFBF</color>
     <color name="btnUnselectedColor">#fafafa</color>
     <color name="defaultWhite">#f4f4f4</color>
@@ -39,9 +39,9 @@
     <color name="category_physics">#3D07B3</color>
     <color name="category_stats">#0B509F</color>
 
-    <color name="colorPrimary2">#0486CC</color>
-    <color name="colorPrimaryDark2">#001E8C</color>
-    <color name="colorAccent2">#001E8C</color>
+    <color name="colorPrimary2">#DC0E2D</color>
+    <color name="colorPrimaryDark2">#8C0000</color>
+    <color name="colorAccent2">#710319</color>
 
 
     <color name="background">#f8f9fa</color>

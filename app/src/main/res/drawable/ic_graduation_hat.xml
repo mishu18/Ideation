@@ -8,7 +8,7 @@
         android:fillColor="@color/hamburger" />
     <path
         android:pathData="m421,169.602v116.398c0,48.602 -84.902,75 -165,75v-206.398h150c8.402,0 15,6.898 15,15zM421,169.602"
-        android:fillColor="#2682ff" />
+        android:fillColor="@color/drawer_orange" />
     <path
         android:pathData="m512,136c0,6.301 -3.898,12 -9.602,14.098l-241,90c-1.797,0.602 -3.598,0.902 -5.398,0.902s-3.602,-0.301 -5.398,-0.902l-241,-90v-28.199l241,-90c1.797,-0.598 3.598,-0.898 5.398,-0.898s3.602,0.301 5.398,0.898l241,90c5.703,2.102 9.602,7.801 9.602,14.102zM512,136"
         android:fillColor="@color/hamburger" />
