@@ -1,10 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#FAFAFB</color>
+    <color name="colorPrimaryDark">#FAFAFB</color>
+    <color name="colorAccent">#1976D2</color>
+    <color name="hamburger">#1976D2</color>
+    <color name="lessGray">#D9DDDD</color>
+    <color name="lesserGray">#E6E8E8</color>
+    <color name="darkGray">#9A9A9C</color>
+
+    <color name="add_post_blue">#8FCCF4</color>
+    <color name="drawer_orange">#f5a86c</color>
+    <color name="drawerMenuGray">#BFBFBF</color>
+    <color name="btnUnselectedColor">#fafafa</color>
+    <color name="defaultWhite">#f4f4f4</color>
+    <color name="redBorderColor">#D32F2F</color>
+    <color name="postSelectorBtnColor">#5EE15A</color>
+
+    <!--Categories colors-->
+    <color name="category_arch">#945f94</color>
+    <color name="category_bioSci">#58A674</color>
+    <color name="category_chemEng">#A5037C</color>
+    <color name="category_chem">#458381</color>
+    <color name="category_civil">#738052</color>
+    <color name="category_cs">#1E8FFF</color>
+    <color name="category_dobt">#024237</color>
+    <color name="category_devStd">#232627</color>
+    <color name="category_es">#370611</color>
+    <color name="category_economics">#90AC43</color>
+    <color name="category_ece">#9C5423</color>
+    <color name="category_env_s">#38CA07</color>
+    <color name="category_health">#5C0491</color>
+    <color name="category_hum">#435A54</color>
+    <color name="category_ms">#EC77BD</color>
+    <color name="category_math">#F57C00</color>
+    <color name="category_me">#4A372E</color>
+    <color name="category_met">#02172B</color>
+    <color name="category_pharm">#570228</color>
+    <color name="category_physics">#3D07B3</color>
+    <color name="category_stats">#0B509F</color>
+
+    <color name="colorPrimary2">#0486CC</color>
+    <color name="colorPrimaryDark2">#001E8C</color>
+    <color name="colorAccent2">#001E8C</color>
+
+
+    <color name="background">#f8f9fa</color>
+    <color name="inputHintColor">#7d7c7c</color>
+    <color name="fullwhite">#ffffff</color>
+    <color name="fullBlack">#000</color>
+    <color name="loginSignUpBackground">#F3F7F8</color>
+    <color name="profilePrimaryDark">#FF3B30</color>
+    <color name="profileAccentColor">#F7F7F7</color>
+    <color name="whiteTextColor">#fff</color>
+    <color name="profileBackground">#fff</color>
+    <color name="blackTextColor">#000</color>
+    <color name="profileEditTextColor">#707070</color>
+
 </resources>
