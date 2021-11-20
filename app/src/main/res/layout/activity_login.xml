@@ -32,20 +32,11 @@
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="1dp"
                 android:fontFamily="@font/basic"
-                android:text="EXCHANGE"
+                android:text="Ideation"
                 android:textColor="@color/hamburger"
-                android:textSize="22sp"
+                android:textSize="30sp"
                 android:textStyle="bold" />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="1dp"
-                android:fontFamily="@font/allerta"
-                android:text="learning"
-                android:textColor="@color/drawer_orange"
-                android:textSize="22sp"
-                android:textStyle="bold" />
         </LinearLayout>
 
         <TextView
@@ -89,8 +80,8 @@
                 android:paddingTop="8dp"
                 android:paddingEnd="8dp"
                 android:paddingBottom="8dp"
-                android:textColor="@color/darkGray"
-                android:textColorHint="@color/darkGray"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
                 android:textSize="18sp"
                 android:theme="@style/LoginEditTextStyle" />
 
@@ -124,8 +115,8 @@
                 android:paddingTop="8dp"
                 android:paddingEnd="8dp"
                 android:paddingBottom="8dp"
-                android:textColor="@color/darkGray"
-                android:textColorHint="@color/darkGray"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
                 android:textSize="18sp"
                 android:theme="@style/LoginEditTextStyle" />
         </androidx.cardview.widget.CardView>
@@ -163,6 +154,7 @@
             android:paddingTop="8dp"
             android:paddingBottom="8dp"
             app:cardCornerRadius="4dp"
+            android:backgroundTint="@color/hamburger"
             app:cardElevation="0dp">
 
             <TextView
@@ -173,7 +165,7 @@
                 android:paddingTop="8dp"
                 android:paddingBottom="8dp"
                 android:text="SIGN IN"
-                android:textColor="@color/hamburger"
+                android:textColor="@color/whiteTextColor"
                 android:textSize="20sp" />
         </androidx.cardview.widget.CardView>
 

@@ -16,7 +16,7 @@
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="72dp"
+            android:layout_marginTop="40dp"
             android:src="@drawable/app_logo_cap" />
 
         <LinearLayout
@@ -33,20 +33,12 @@
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="1dp"
                 android:fontFamily="@font/basic"
-                android:text="EXCHANGE"
+                android:text="IDEATION"
                 android:textColor="@color/hamburger"
-                android:textSize="22sp"
+                android:textSize="30sp"
                 android:textStyle="bold" />
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_marginStart="1dp"
-                android:fontFamily="@font/allerta"
-                android:text="learning"
-                android:textColor="@color/drawer_orange"
-                android:textSize="22sp"
-                android:textStyle="bold" />
+
         </LinearLayout>
 
         <TextView
@@ -89,8 +81,8 @@
                 android:paddingTop="8dp"
                 android:paddingEnd="8dp"
                 android:paddingBottom="8dp"
-                android:textColor="@color/darkGray"
-                android:textColorHint="@color/darkGray"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
                 android:textSize="18sp"
                 android:theme="@style/LoginEditTextStyle" />
 
@@ -123,8 +115,8 @@
                 android:paddingTop="8dp"
                 android:paddingEnd="8dp"
                 android:paddingBottom="8dp"
-                android:textColor="@color/darkGray"
-                android:textColorHint="@color/darkGray"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
                 android:textSize="18sp"
                 android:theme="@style/LoginEditTextStyle" />
         </androidx.cardview.widget.CardView>
@@ -157,8 +149,8 @@
                 android:paddingEnd="8dp"
                 android:inputType="textEmailAddress"
                 android:paddingBottom="8dp"
-                android:textColor="@color/darkGray"
-                android:textColorHint="@color/darkGray"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
                 android:textSize="18sp"
                 android:theme="@style/LoginEditTextStyle" />
         </androidx.cardview.widget.CardView>
@@ -185,7 +177,7 @@
                     android:layout_marginStart="8dp"
                     android:layout_gravity="center_vertical"
                     android:id="@+id/textView2"
-                    android:textColor="@color/darkGray"
+                    android:textColor="@color/black"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:fontFamily="@font/open_sans_light"
@@ -203,14 +195,14 @@
                     android:orientation="horizontal">
 
                     <RadioButton
-                        android:textColor="@color/darkGray"
+                        android:textColor="@color/black"
                         android:id="@+id/male_button"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Male" />
 
                     <RadioButton
-                        android:textColor="@color/darkGray"
+                        android:textColor="@color/black"
                         android:id="@+id/female_button"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
@@ -243,7 +235,7 @@
 
                 <TextView
                     android:layout_marginStart="8dp"
-                    android:textColor="@color/darkGray"
+                    android:textColor="@color/black"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_marginRight="10dp"
@@ -281,7 +273,7 @@
                 android:orientation="horizontal">
 
                 <TextView
-                    android:textColor="@color/darkGray"
+                    android:textColor="@color/black"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_marginEnd="10dp"
@@ -329,8 +321,8 @@
                 android:paddingTop="8dp"
                 android:paddingEnd="8dp"
                 android:paddingBottom="8dp"
-                android:textColor="@color/darkGray"
-                android:textColorHint="@color/darkGray"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
                 android:textSize="18sp"
                 android:theme="@style/LoginEditTextStyle" />
         </androidx.cardview.widget.CardView>
@@ -363,8 +355,8 @@
                 android:paddingTop="8dp"
                 android:paddingEnd="8dp"
                 android:paddingBottom="8dp"
-                android:textColor="@color/darkGray"
-                android:textColorHint="@color/darkGray"
+                android:textColor="@color/black"
+                android:textColorHint="@color/black"
                 android:textSize="18sp"
                 android:theme="@style/LoginEditTextStyle" />
         </androidx.cardview.widget.CardView>
@@ -377,6 +369,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="16dp"
             android:layout_marginEnd="16dp"
+            android:backgroundTint="@color/hamburger"
             android:clickable="true"
             android:focusable="true"
             android:foreground="?attr/selectableItemBackground"
@@ -388,6 +381,7 @@
             app:cardElevation="0dp">
 
             <TextView
+
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
@@ -395,7 +389,7 @@
                 android:paddingTop="8dp"
                 android:paddingBottom="8dp"
                 android:text="SIGN UP"
-                android:textColor="@color/hamburger"
+                android:textColor="@color/whiteTextColor"
                 android:textSize="20sp" />
         </androidx.cardview.widget.CardView>
 
