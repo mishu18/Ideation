@@ -787,7 +787,7 @@ public class MainActivity extends AppCompatActivity implements OnPostClickListen
 
     @Override
     public void showPostDetail(PostModel post) {
-        Intent intent = new Intent(com.example.android.ideation.MainActivity.this, PostDetailActivity.class);
+        Intent intent = new Intent(MainActivity.this, PostDetailActivity.class);
         intent.putExtra("PostObject", post);
         startActivity(intent);
     }

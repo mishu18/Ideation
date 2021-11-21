@@ -1,5 +1,15 @@
 package com.example.android.ideation.activities;
 
+import com.example.android.ideation.Constants;
+import com.example.android.ideation.Proposals.ProposalListActivity;
+import com.example.android.ideation.R;
+import com.example.android.ideation.model.Notification;
+import com.example.android.ideation.model.PostModel;
+import com.example.android.ideation.model.Proposal;
+import com.example.android.ideation.model.Report;
+import com.example.android.ideation.model.UserProfile;
+import com.example.android.ideation.utils.DateTimeUtils;
+
 import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.PorterDuff;
@@ -27,16 +37,6 @@ import androidx.core.content.ContextCompat;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
-import com.example.android.ideation.Constants;
-import com.example.android.ideation.Proposals.ProposalListActivity;
-import com.example.android.ideation.R;
-import com.example.android.ideation.model.Notification;
-import com.example.android.ideation.model.PostModel;
-import com.example.android.ideation.model.Proposal;
-import com.example.android.ideation.model.Report;
-import com.example.android.ideation.model.UserProfile;
-import com.example.android.ideation.utils.DateTimeUtils;
-import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
