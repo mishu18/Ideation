@@ -111,8 +111,8 @@ public class CreateImagePostActivity extends AppCompatActivity {
             getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         }
         exchangeTxt = findViewById(R.id.exchange_txt);
-        learningTxt = findViewById(R.id.learning_txt);
-        learningTxt.setVisibility(View.GONE);
+        //learningTxt = findViewById(R.id.learning_txt);
+        //learningTxt.setVisibility(View.GONE);
         avi = findViewById(R.id.createImgPostProgress);
         mSelectedCommunities = new ArrayList<>();
         mSelectedCommunitiesIDs = new ArrayList<>();

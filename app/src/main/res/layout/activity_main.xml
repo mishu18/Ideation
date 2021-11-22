@@ -141,11 +141,11 @@
                         android:layout_height="wrap_content">
 
                         <ImageView
-                            android:layout_marginStart="28dp"
-                            android:layout_marginBottom="16dp"
-                            android:layout_marginTop="16dp"
-                            android:layout_width="25dp"
+                            android:layout_width="15dp"
                             android:layout_height="25dp"
+                            android:layout_marginStart="28dp"
+                            android:layout_marginTop="16dp"
+                            android:layout_marginBottom="16dp"
                             android:src="@drawable/drawer_post_icon" />
 
                         <TextView
@@ -286,7 +286,7 @@
                             android:textStyle="bold"
                             android:textColor="@color/drawer_orange"
                             android:fontFamily="@font/allerta"
-                            android:text="Book City" />
+                            android:text="Products" />
 
 
                     </LinearLayout>

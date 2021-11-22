@@ -33,7 +33,7 @@
                 android:layout_marginEnd="1dp"
                 android:textStyle="bold"
                 android:fontFamily="@font/basic"
-                android:text="EXCHANGE" />
+                android:text="IDEATION" />
 
             <TextView
                 android:id="@+id/learning_txt"
@@ -45,7 +45,7 @@
                 android:textSize="20sp"
                 android:textStyle="bold"
                 android:fontFamily="@font/allerta"
-                android:text="learning" />
+                android:text="" />
         </LinearLayout>
     </androidx.appcompat.widget.Toolbar>
 </com.google.android.material.appbar.AppBarLayout>

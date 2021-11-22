@@ -93,7 +93,7 @@
             android:fontFamily="@font/basic"
             android:inputType="textCapSentences"
             android:maxLines="1"
-            android:text="Abdul Hafeez Sajid"
+            android:text="Anjali Sewani"
             android:textColor="@color/fullBlack"
             android:textSize="30sp"
             android:textStyle="bold"
@@ -521,7 +521,7 @@
                     android:layout_below="@id/locTextView"
                     android:layout_marginStart="8dp"
                     android:layout_toEndOf="@id/locImageView"
-                    android:text="Islamabad, Pakistan"
+                    android:text="India"
                     android:textColor="@color/lessGray"
                     android:textSize="16sp"
                     android:textStyle="bold" />

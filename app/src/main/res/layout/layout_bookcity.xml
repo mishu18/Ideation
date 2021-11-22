@@ -33,19 +33,8 @@
                 android:layout_marginEnd="1dp"
                 android:textStyle="bold"
                 android:fontFamily="@font/basic"
-                android:text="BOOK" />
+                android:text="Share Products" />
 
-            <TextView
-                android:id="@+id/learning_txt"
-                android:visibility="visible"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:textColor="@color/drawer_orange"
-                android:layout_marginStart="1dp"
-                android:textSize="20sp"
-                android:textStyle="bold"
-                android:fontFamily="@font/allerta"
-                android:text="CITY" />
         </LinearLayout>
     </androidx.appcompat.widget.Toolbar>
 </com.google.android.material.appbar.AppBarLayout>

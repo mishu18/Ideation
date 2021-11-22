@@ -38,7 +38,7 @@
                     android:fontFamily="@font/basic"
                     android:lines="1"
                     android:maxLines="1"
-                    android:text="Post or Book Search"
+                    android:text="Share your product"
                     android:textColor="@color/hamburger"
                     android:textSize="20sp"
                     android:textStyle="bold" />

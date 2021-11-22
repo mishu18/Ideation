@@ -87,8 +87,8 @@ public class CreateNoImagePostActivity extends AppCompatActivity {
         mSelectedCommunitiesIDs = new ArrayList<>();
 
         exchangeTxt = findViewById(R.id.exchange_txt);
-        learningTxt = findViewById(R.id.learning_txt);
-        learningTxt.setVisibility(View.GONE);
+        //learningTxt = findViewById(R.id.learning_txt);
+        //learningTxt.setVisibility(View.GONE);
 
         titleEditTxt = findViewById(R.id.createNoImgPostTitle);
         bodyEditText = findViewById(R.id.createNoImgPostBody);

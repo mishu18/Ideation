@@ -127,6 +127,7 @@ public class MainActivity extends AppCompatActivity implements OnPostClickListen
         goToNotif = findViewById(R.id.drawer_notif);
         goToSettings = findViewById(R.id.drawer_settings);
         goToBookCity = findViewById(R.id.drawer_bookcity);
+
         goToMessages = findViewById(R.id.drawer_messages);
         logout = findViewById(R.id.drawer_logout);
         mainHeader = findViewById(R.id.main_header);
